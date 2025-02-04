@@ -1,0 +1,1 @@
+I developed a Tic-Tac-Toe game using JavaFX, featuring an intuitive UI and AI-powered opponent. The AI utilizes the Minimax algorithm to make optimal moves, ensuring a challenging gameplay experience. The game also includes randomized first-player selection, score tracking, and multi-round support.
